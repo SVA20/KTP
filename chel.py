@@ -6,3 +6,4 @@ Created on Tue Feb 23 14:46:13 2021
 """
 print ('chel')
 print('chtoto eche')
+print ('mandarin')
